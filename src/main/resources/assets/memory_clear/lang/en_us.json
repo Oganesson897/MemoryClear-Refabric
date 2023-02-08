@@ -1,0 +1,5 @@
+{
+  "message.memory_clear.start": "Memory Clear:Start",
+  "message.memory_clear.over": "Memory Clear:Over",
+  "message.memory_clear.close": "You close the memory clear command, please open it in config."
+}

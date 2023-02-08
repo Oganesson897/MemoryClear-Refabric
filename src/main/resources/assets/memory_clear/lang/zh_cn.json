@@ -1,0 +1,5 @@
+{
+  "message.memory_clear.start": "内存清理开始",
+  "message.memory_clear.over": "内存清理结束",
+  "message.memory_clear.close": "你将内存清理的指令关闭了，请在Config内开启"
+}

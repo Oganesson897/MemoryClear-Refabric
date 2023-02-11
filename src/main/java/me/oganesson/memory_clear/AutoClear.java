@@ -9,7 +9,7 @@ public class AutoClear {
             if (i < ModConfig.get().autoMemoryClearTime * 1200) {
                 i++;
             }
-            if (i >= ModConfig.get().autoMemoryClearTime * 6) {
+            if (i >= ModConfig.get().autoMemoryClearTime * 1200) {
                 i = 0;
                 if (ModConfig.get().autoMemoryClear) {
                     System.gc();

@@ -1,0 +1,5 @@
+{
+  "message.memory_clear.start": "記憶體清理正在執行",
+  "message.memory_clear.over": "記憶體清理執行結束",
+  "message.memory_clear.close": "你記憶體清理的指令停用了，請在Config内啓用"
+}
